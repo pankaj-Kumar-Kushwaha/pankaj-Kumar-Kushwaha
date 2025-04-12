@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-kumar-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-kumar-kushwaha" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **pk2519102@gmail.com**
 
